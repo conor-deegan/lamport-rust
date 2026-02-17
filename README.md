@@ -2,6 +2,8 @@
 
 SHA-256 and Lamport one-time signatures implemented from scratch in Rust. No cryptographic dependencies — only `rand` for key generation and `hex` for pretty printing stuff.
 
+Do not use this in production. This is a learning exercise.
+
 ## Workspace
 
 | Crate | Description |
